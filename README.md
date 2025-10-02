@@ -1,7 +1,7 @@
 # Labels iOS App
 
 A simple iOS app to access your label printer interface on your iPhone.
-
+![screenshot](screenshot.png "Example Screenshot")
 ## Features
 
 - Access your label printer at `http://192.168.0.203:8013/labeldesigner`
