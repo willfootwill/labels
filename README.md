@@ -1,6 +1,7 @@
 # Labels iOS App
 
 A simple iOS app to access your label printer interface on your iPhone.
+
 ![screenshot](screenshot.png "Example Screenshot")
 ## Features
 
